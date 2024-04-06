@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "ime": " Uros",
+      "prezime": "Spasic",
+      "brojT": "065 267888",
+      "email": "uros222@gmail.com",
+      "id": "d46a"
+    },
+    {
+      "id": "174b",
+      "ime": "Pera ",
+      "prezime": "Peric",
+      "brojT": "065 2727272",
+      "email": "pera20@gmail.com"
+    },
+    {
+      "ime": " Marko",
+      "prezime": "Markovic",
+      "brojT": "064 33323232",
+      "email": "marko22@gmail.com",
+      "id": "b08a"
+    }
+  ]
+}
