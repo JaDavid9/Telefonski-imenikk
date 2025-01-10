@@ -1,0 +1,1 @@
+Telefonski imenik pokrecemo uz pomoc VS code otvorimo terminal pisemo komandu cd my-react onda pokrenemo uz pomoc komande npm start. Kada to uradimo otvaramo novi terminal i kucamo npx json-server --watch db.json --port 8080.
